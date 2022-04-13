@@ -1,4 +1,4 @@
-# Practice-Questions-App
+# Quiz-Application
 Console based application (non GUI)
 
 Main features: practice questions feature.
